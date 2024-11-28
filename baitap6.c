@@ -14,6 +14,6 @@ int main(){
 	printf("%d\n",n[2][2]);
 	int sum=0;
 	sum=n[0][0]+n[1][1]+n[2][2];
-	    printf("tong cac phan tu tren duong bien cua ma tran la: %d",sum);
+	    printf("tong cac phan tu tren duong cheo chinh cua ma tran la: %d",sum);
 	return 0;
 }
